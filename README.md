@@ -5,7 +5,7 @@ Below is a list of all the homework assignments along with brief descriptions of
 
 
 ## Table of Contents
-1. [Homework 1: Introduction to Databases](#homework-1-introduction-to-databases)
+1. [Homework 1: ER Diagram using ERwin Data Modeler](#homework-1-er-diagram-using-erwin-data-modeler)
 2. [Homework 2: SQL Queries and Functions](#homework-2-sql-queries-and-functions)
 3. [Homework 3: ER Diagram](#homework-3-er-diagram)
 4. [Homework 4: Indexing and Performance Tuning](#homework-4-indexing-and-performance-tuning)
@@ -13,6 +13,7 @@ Below is a list of all the homework assignments along with brief descriptions of
 6. [Homework 6: Azure Cosmos DB](#homework-6-azure-cosmos-db)
 7. [Homework 7: MongoDB](#homework-7-mongodb)
 8. [Homework 8: Neo4j](#homework-8-neo4j)
+
 
 ## Homework 1: ER Diagram using ERwin Data Modeler
 This homework focuses on visualizing and designing a database structure through diagrams. The assignment is divided into two parts:
