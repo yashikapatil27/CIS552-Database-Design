@@ -6,14 +6,13 @@ Below is a list of all the homework assignments along with brief descriptions of
 
 ## Table of Contents
 1. [Homework 1: ER Diagram using ERwin Data Modeler](#homework-1-er-diagram-using-erwin-data-modeler)
-2. [Homework 2: SQL Queries and Functions](#homework-2-sql-queries-and-functions)
-3. [Homework 3: ER Diagram](#homework-3-er-diagram)
-4. [Homework 4: Indexing and Performance Tuning](#homework-4-indexing-and-performance-tuning)
-5. [Homework 5: Azure SQL Database](#homework-5-azure-sql-database)
-6. [Homework 6: Azure Cosmos DB](#homework-6-azure-cosmos-db)
-7. [Homework 7: MongoDB](#homework-7-mongodb)
-8. [Homework 8: Neo4j](#homework-8-neo4j)
-
+2. [Homework 2: SQL Queries and Functions using MS SQL Server 2017](#homework-2-sql-queries-and-functions-using-ms-sql-server-2017)
+3. [Homework 3: Creating a User-Defined Stored Procedure for GPA Calculation](#homework-3-creating-a-user-defined-stored-procedure-for-gpa-calculation)
+4. [Homework 4: Performance Tuning of Queries Using Indexes](#homework-4-performance-tuning-of-queries-using-indexes)
+5. [Homework 5: Setting Up and Managing an Azure SQL Database](#homework-5-setting-up-and-managing-an-azure-sql-database)
+6. [Homework 6: Managing NoSQL Data with Azure Cosmos DB](#homework-6-managing-nosql-data-with-azure-cosmos-db)
+7. [Homework 7: Managing Data with MongoDB Community Server and Compass](#homework-7-managing-data-with-mongodb-community-server-and-compass)
+8. [Homework 8: Neo4j Graph Database and Cypher Query Language](#homework-8-neo4j-graph-database-and-cypher-query-language)
 
 ## Homework 1: ER Diagram using ERwin Data Modeler
 This homework focuses on visualizing and designing a database structure through diagrams. The assignment is divided into two parts:
